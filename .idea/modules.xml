@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Concorrencia-SisOp.iml" filepath="$PROJECT_DIR$/Concorrencia-SisOp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concorrencia-SisOp.iml" filepath="$PROJECT_DIR$/SisOp-Concorrencia.iml" />
     </modules>
   </component>
 </project>
